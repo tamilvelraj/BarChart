@@ -16,6 +16,7 @@
 		C966C8741C76164F000E7A6A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C966C8721C76164F000E7A6A /* LaunchScreen.storyboard */; };
 		C966C8811C761683000E7A6A /* ChartListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C966C87C1C761683000E7A6A /* ChartListViewController.m */; };
 		C966C8821C761683000E7A6A /* HorizonBarView.m in Sources */ = {isa = PBXBuildFile; fileRef = C966C87E1C761683000E7A6A /* HorizonBarView.m */; };
+		C966C8851C761860000E7A6A /* BarChart.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C966C8841C761860000E7A6A /* BarChart.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		C966C87C1C761683000E7A6A /* ChartListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ChartListViewController.m; sourceTree = "<group>"; };
 		C966C87D1C761683000E7A6A /* HorizonBarView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HorizonBarView.h; sourceTree = "<group>"; };
 		C966C87E1C761683000E7A6A /* HorizonBarView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HorizonBarView.m; sourceTree = "<group>"; };
+		C966C8841C761860000E7A6A /* BarChart.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = BarChart.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 		C966C8601C76164F000E7A6A /* BarChart */ = {
 			isa = PBXGroup;
 			children = (
+				C966C8841C761860000E7A6A /* BarChart.jpg */,
 				C966C8641C76164F000E7A6A /* AppDelegate.h */,
 				C966C8651C76164F000E7A6A /* AppDelegate.m */,
 				C966C8671C76164F000E7A6A /* ViewController.h */,
@@ -151,6 +154,7 @@
 			files = (
 				C966C8741C76164F000E7A6A /* LaunchScreen.storyboard in Resources */,
 				C966C8711C76164F000E7A6A /* Assets.xcassets in Resources */,
+				C966C8851C761860000E7A6A /* BarChart.jpg in Resources */,
 				C966C86C1C76164F000E7A6A /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
