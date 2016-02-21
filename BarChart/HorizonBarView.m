@@ -1,11 +1,3 @@
-//
-//  HorizonBarView.m
-//  TestWaitingView
-//
-//  Created by Thamil Selvan V on 10/02/16.
-//  Copyright © 2016 zhtg. All rights reserved.
-//
-
 #import "HorizonBarView.h"
 #import <math.h>
 #import <CoreText/CoreText.h>
